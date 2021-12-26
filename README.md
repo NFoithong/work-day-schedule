@@ -30,7 +30,7 @@ The starter code uses the Moment.js library to work with date and time
 * moment.js
 
 ## Demo
-!(assets/work-day-demo.png)
+![Demo](./assets/work-day-demo.png)
 
 ## Icon
 * https://fontawesome.com/v5.15/icons/save?style=solid
