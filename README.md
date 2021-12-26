@@ -28,3 +28,13 @@ The starter code uses the Moment.js library to work with date and time
 * Bootstrap
 * jQuery
 * moment.js
+
+## Demo
+!(assets/word-day-demo.png)
+
+## Icon
+* https://fontawesome.com/v5.15/icons/save?style=solid
+
+## Website
+* Deployed: https://nfoithong.github.io/work-day-schedule/
+* Github: https://github.com/NFoithong/work-day-schedule
